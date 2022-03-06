@@ -1,0 +1,4 @@
+apply plugin: 'java'
+apply pliugin: 'application'
+mainClassName = "My"
+
